@@ -1,4 +1,4 @@
-// Complete Guide to C++ Programming Foundations
+ // Complete Guide to C ++ Programming Foundations
 // Exercise 01_02 with MODS
 // Hello World, by Eduardo Corpeño 
 
